@@ -6,8 +6,8 @@
 - Initially the can is not empty. 
 - You are asked to perform the following action repeatedly (ie., over and over as long as possible):
 - Reach into the can and pick two random beans.
-  --> If the beans are the same color, throw them both out.
-  --> If they are different colors (eg., red and green), throw them both out and 
+  1) If the beans are the same color, throw them both out.
+  2) If they are different colors (eg., red and green), throw them both out and 
       add a bean of the third color (eg., blue) to the can.
  
 
